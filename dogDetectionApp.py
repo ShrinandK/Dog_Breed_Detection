@@ -46,7 +46,7 @@ col0,col1,col2,col3 = st.columns(colLength)
 # setting image paths for app
 allDogPath = {'Boston Terrier':'Images/For_app/BT129.jpg',
               'French Bulldog':'Images/For_app/FB1.jpg',
-              'Husky':'Images/For_app/HD246.jpg',
+              'Husky':'Images/For_app/HD151.jpg',
               'Malamute':'Images/For_app/MD6.jpg'}
 
 # setting column for each breed
@@ -58,7 +58,7 @@ allDogColumns = {'Boston Terrier':col0,
 # copyright to their owner
 allDogCaptions = {'Boston Terrier': 'Copyright: https://www.thegoodypet.com/how-much-does-a-boston-terrier-cost',
               'French Bulldog':'Copyright: https://thichthucung.com/',
-              'Husky':'Copyright: https://siberiianblog.tumblr.com/post/188834198272/officialhuskylovers',
+              'Husky':'Copyright: https://dogzbreed.blogspot.com/2020/03/white-siberian-husky-changes-5.html',
               'Malamute':'Copyright: ©liliya kulianionak - stock.adobe.com'}
 
 # assigning each column data
